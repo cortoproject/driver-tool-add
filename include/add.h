@@ -2,13 +2,11 @@
 #ifndef DRIVER_TOOL_ADD_H
 #define DRIVER_TOOL_ADD_H
 
-/* Add include files here */
-
 #ifdef __cplusplus
 extern "C" {
 #endif
 
-/* Insert definitions here */
+char* corto_tool_lookupPackage(char* str);
 
 #ifdef __cplusplus
 }
