@@ -2,8 +2,8 @@
     "id": "driver/tool/add",
     "type": "package",
     "value": {
-        "description": "Making the world a better place",
-        "author": "Arthur Dent",
+        "description": "Tool to add a package from project.json",
+        "author": "Sander Mertens",
         "version": "1.0.0",
         "language": "c",
         "use": ["parson", "corto"],
