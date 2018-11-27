@@ -1,5 +1,5 @@
 {
-    "id": "driver/tool/add",
+    "id": "driver.tool.add",
     "type": "package",
     "value": {
         "description": "Tool to add a package to project.json",
